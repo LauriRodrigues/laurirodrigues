@@ -1,9 +1,7 @@
-### Oii! Eu sou a Lauri Rodrigues! 🪴
+### 🌿 Oii, eu sou a Lauriana, mas pode me chamar de Lauri! 
+Tenho 25 anos e há pouco mais de um ano iniciei minha jornada como desenvolvedora web com foco em front-end. Tenho me apaixonado cada dia mais pela criação de experiências visuais envolventes e interativas.     
 
-- 🌿 Dev front-end ...
-- 🌱 Atualmente estudando HTML, CSS, JavaScript e React ...
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/laurirodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laurirodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurirodrigues&layout=compact&langs_count=7&theme=dracula"/>
