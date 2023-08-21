@@ -15,7 +15,6 @@ Tenho 25 anos e há pouco mais de um ano iniciei minha jornada como desenvolvedo
   <img align="center" title="JavaScript" alt="Lauri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="TypeScript" alt="Lauri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" title="ReactJS" alt="Lauri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="NextJS" alt="Lauri-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" title="NodeJS" alt="Lauri-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </div>
   
