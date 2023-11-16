@@ -20,7 +20,8 @@ Tenho 25 anos e há pouco mais de um ano iniciei minha jornada como desenvolvedo
   
   ##
   <br>
-  <div> 
+  <div>
+  <a href="https://laurirodrigues.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/laurirodrigues2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lauri_rodrigues" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:laurianarodrigueslima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
