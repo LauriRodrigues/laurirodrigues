@@ -3,7 +3,9 @@
 </div>
 
 <h3 align="left">🌿 Oii, eu sou a Lauriana, mas pode me chamar de Lauri!</h1>
-<p>Tenho 25 anos e há pouco mais de um ano iniciei minha jornada como desenvolvedora web com foco em front-end. Tenho me apaixonado cada dia mais pela criação de experiências visuais envolventes e interativas.</p> 
+<p>Tenho 25 anos e há pouco mais de um ano iniciei minha jornada como desenvolvedora web com foco em front-end. Tenho me apaixonado cada dia mais pela criação de experiências visuais envolventes e interativas. Pra mais informações e curiosidades sobre mim, acesse meu <a href="https://laurirodrigues.dev">site</a>.</p> 
+
+<p>💼 Se você tem perguntas, comentários ou está interessado em discutir um projeto, fique à vontade para me enviar uma mensagem. Estou sempre disponível para discutir novas oportunidades e parcerias.</p>
 
 <div align="left">
   <a href="https://github.com/laurirodrigues">
